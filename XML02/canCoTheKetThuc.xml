@@ -1,0 +1,7 @@
+<!-- Two equivalent break elements -->
+<br><br/>
+<br />
+
+<!-- Two equivalent image elements-->
+<img src="../img/c.gif"></img>
+<img src="../img/c.gif" />

@@ -1,0 +1,6 @@
+<!-- Not legal XML markup -->
+<p>
+    <b>I <i>really
+        love</b>XML.
+    </i>
+</p>
